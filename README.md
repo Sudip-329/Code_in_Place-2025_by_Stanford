@@ -6,7 +6,7 @@ Welcome to my repository for the assignments from **Stanford's Code in Place 202
 This course is a wonderful initiative that makes high-quality coding education accessible to thousands of students around the world — completely free of charge.
 
 This repository documents my progress and solutions for the weekly programming challenges.
-
+## ![The End](images/ending.png)
 ---
 
 ## 📜 Certificate of Completion
@@ -63,5 +63,5 @@ The real learning comes from tackling the challenges and debugging your own code
 However, if you find yourself stuck, feel free to learn from this repository — but don’t copy without understanding. 🙂
 
 ---
-
-## [🙌 Happy coding!] (images/ending.png)
+## 🙌 Happy coding!
+## ![The End](images/ending.png)
