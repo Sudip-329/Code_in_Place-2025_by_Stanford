@@ -14,7 +14,7 @@ This repository documents my progress and solutions for the weekly programming c
 I successfully completed the course!  
 You can view my certificate here:
 
-👉 [View Certificate]([#](https://codeinplace.stanford.edu/cip5/certificate/5976bs))
+👉 [View Certificate](https://codeinplace.stanford.edu/cip5/certificate/5976bs)
 
 ---
 
@@ -64,4 +64,4 @@ However, if you find yourself stuck, feel free to learn from this repository —
 
 ---
 
-## 🙌 Happy coding!
+## [🙌 Happy coding!] (images/ending.png)
